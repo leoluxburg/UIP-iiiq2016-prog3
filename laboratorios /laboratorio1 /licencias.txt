@@ -1,0 +1,14 @@
+Apache lincese
+
+La licencia Apache es una licencia de software libre permisiva creada por la
+Apache Software Foundation. La licencia Apache requiere la conservación del
+aviso de derecho de autor y el descargo de responsabilidad, pero no es una
+licencia copyleft, ya que no requiere la redistribución del código fuente
+cuando se distribuyen versiones modificadas.
+
+Al igual que otras licencias de software libre, todo el software producido por
+la ASF o cualquiera de sus proyectos está desarrollado bajo los términos de
+esta licencia, es decir, la licencia permite al usuario del software de la
+libertad de usar el software para cualquier propósito, para distribuirlo,
+modificarlo y distribuir versiones modificadas del software, bajo los términos
+de la licencia, sin preocuparse de las regalías.
